@@ -21,9 +21,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-
-# PDF and temp files
-*.pdf
-*.xlsx
-*.csv
-*.png
