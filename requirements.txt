@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+python-dotenv
+openai
+plotly
+fpdf
+matplotlib
+seaborn
