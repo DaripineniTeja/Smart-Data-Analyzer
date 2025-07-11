@@ -74,9 +74,8 @@ An advanced Streamlit-based web app that lets users upload datasets (CSV/XLSX) a
 
 ## 🧪 How to Run
 
-### 1. Clone this repo
+### 1. Clone this repon
 
-```bash
 git clone https://github.com/YOUR_USERNAME/smart-data-analyzer.git
 cd smart-data-analyzer
 
