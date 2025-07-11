@@ -10,6 +10,8 @@ from fpdf import FPDF
 from ml_model import ml_model_prediction_tab
 import tempfile
 
+from streamlit_lottie import st_lottie
+
 # Load OpenAI API key
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
